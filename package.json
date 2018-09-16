@@ -17,5 +17,7 @@
   },
   "homepage": "https://github.com/waild/LohikaNodeJSCourse_HW_S2_PromiseVSAsync#readme",
   "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
   }
 }
